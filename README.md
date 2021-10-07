@@ -58,4 +58,4 @@ Fantastic! You've already made your first contribution.🥳
 
 BE OPEN!
 Happy Coding!💻
-
+Take care
