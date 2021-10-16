@@ -14,7 +14,7 @@ This is an important step to mark your commits to your name and email.
 
 
 ### Fork a project
-You can make a copy of the project to your account. This process is called forking a project to your Github account. On Upper right side of project page on Github, you can see.
+You can make a copy of the project to your account. This process is called forking a project to your Github account. On Upper right side of project page on Github, you can see clearly.
 Click on fork to create a copy of project to your account. This creates a separate copy for you to work on.
 
 ### Clone the forked project
@@ -27,7 +27,7 @@ Now you have the project on your local machine.
 ### Add a remote (upstream) to original project repository
 Remote means the remote location of project on Github. By cloning, we have a remote called origin which points to your forked repository. Now we will add a remote to the original repository from where we had forked.
 
-`$ cd <your-forked-project-folder>` `$ git remote add upstream https://github.com/drishyadamodaran/hacktoberfest2021_CP.git`
+$ cd <your-forked-project-folder>` `$ git remote add upstream https://github.com/drishyadamodaran/hacktoberfest2021_CP.git`
 You will see the benefits of adding remote later.
 
 ### Synchronizing your fork
