@@ -1,4 +1,4 @@
-# hacktoberfest2021_CP
+# hacktoberfest-2021_CP
 You can contribute here!
 
 ## Basics of Git and GitHub
@@ -57,5 +57,5 @@ Remember your upstream base branch should be main and source should be your feat
 Fantastic! You've already made your first contribution.🥳
 
 BE OPEN!
-Happy Coding!💻
+HAPPY HACKING!💻
 
