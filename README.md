@@ -1,6 +1,12 @@
 # hacktoberfest2021_CP
 You can contribute here!
 
+
+    <title>Hacktoberfest 2020</title>
+  </head>
+  <body>
+    <h1 id="header">Hack<span class="middle">to</span>berfest</h1>
+    <canvas class="canvas" id="canvas"> </canvas>
 ## Basics of Git and GitHub
 ### Git & GitHub
 Before we proceed, it's better to know the difference between Git and Github. Git is a version control system (VCS) that allows us to keep track of the history of our source code , whereas GitHub is a service that hosts Git projects.
