@@ -31,6 +31,9 @@ Remote means the remote location of project on Github. By cloning, we have a rem
 You will see the benefits of adding remote later.
 
 ### Synchronizing your fork
+
+
+Hacktoberfest is open to everyone in our global community! Maintainers determine if their open-source projects participate by adding the 'hacktoberfest' topic. Quality pull requests submitted on GitHub and GitLab are rewarded. Engaged maintenance of Hacktoberfest tagged repositories are rewarded.
 Open Source projects have a number of contributors who can push code anytime. So it is necessary to make your forked copy equal with the original repository. The remote added above called Upstream helps in this.
 
 `$ git checkout main` `$ git fetch upstream` `$ git merge upstream/main` `$ git push origin main`
